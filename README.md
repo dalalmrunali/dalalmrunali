@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects related to Machine Learning And Artifical Intelligence.
 - 📫 How to reach me:  
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to write letters.
+- ⚡ Fun fact: I like to write poems.
 
 <!---
 dalalmrunali/dalalmrunali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
